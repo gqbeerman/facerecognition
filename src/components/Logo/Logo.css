@@ -1,3 +1,7 @@
 .Tilt {
     background: linear-gradient(to bottom right, #faf7f4 0%, #0067ab 100%);
 }
+
+.zindex {
+    z-index: 1;
+}
